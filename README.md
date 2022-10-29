@@ -1,0 +1,4 @@
+# WhatsApp-Clone Development Stage
+## chat with your friends
+### Screenshots
+<img src="https://user-images.githubusercontent.com/80680671/198592251-63a6c5b9-14e5-49ca-94ee-ec42bd88960d.jpg" width="200" height="400" /><img src="https://user-images.githubusercontent.com/80680671/198592265-62bba71d-b5f7-43d0-8a28-a6be479dbb90.jpg" width="200" height="400" /><img src="https://user-images.githubusercontent.com/80680671/198592289-e3bdd76d-796d-4bc7-9695-494bf4210728.jpg" width="200" height="400" /><img src="https://user-images.githubusercontent.com/80680671/198592300-e2e5e82e-a5c2-455d-9676-c082b15a88d1.jpg" width="200" height="400" /><img src="https://user-images.githubusercontent.com/80680671/198592307-cf65bd3f-e882-457b-ae76-de5795fb9ffb.jpg" width="200" height="400" /><img src="https://user-images.githubusercontent.com/80680671/198592231-33cc8fde-3508-4dfd-8020-25fb04cf7a98.jpg" width="200" height="400" />
