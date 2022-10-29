@@ -35,6 +35,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
+        getSupportActionBar().setTitle("Connected");
         usernameEditText=findViewById(R.id.usernameEditText);
         passwordEditText=findViewById(R.id.passwordEditText);
         loginTextView=findViewById(R.id.loginTextView);
